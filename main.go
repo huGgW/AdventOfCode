@@ -6,5 +6,7 @@ func main() {
     // Day2Half()
     // Day2Full()
     // Day3Half()
-    Day3Full()
+    // Day3Full()
+    // Day4Half()
+    Day4Full()
 }
