@@ -38,7 +38,7 @@ So, in this example, `*2*` reports are *safe*.
 
 Analyze the unusual data from the engineers. *How many reports are safe?*
 
-Your puzzle answer was `432`.
+Your puzzle answer was `___`.
 
 ## --- Part Two ---
 
@@ -61,7 +61,7 @@ Thanks to the Problem Dampener, `*4*` reports are actually *safe*!
 
 Update your analysis by handling situations where the Problem Dampener can remove a single level from unsafe reports. *How many reports are now safe?*
 
-Your puzzle answer was `488`.
+Your puzzle answer was `___`.
 
 Both parts of this puzzle are complete! They provide two gold stars: \*\*
 
